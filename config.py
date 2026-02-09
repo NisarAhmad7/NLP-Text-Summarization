@@ -1,0 +1,9 @@
+# config.py
+
+MAX_INPUT_LENGTH = 512
+MAX_SUMMARY_LENGTH = 128
+BATCH_SIZE = 4
+EPOCHS = 3
+LEARNING_RATE = 2e-5
+
+MODEL_NAME = "facebook/bart-base"

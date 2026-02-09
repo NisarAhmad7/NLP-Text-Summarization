@@ -1,0 +1,16 @@
+text_summarization_project/
+│
+├── data/
+│   └── dataset.py
+│
+├── tokenizer/
+│   └── tokenizer.py
+│
+├── model/
+│   └── summarizer.py
+│
+├── train.py
+├── evaluate.py
+├── config.py
+├── requirements.txt
+└── README.md
